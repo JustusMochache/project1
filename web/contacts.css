@@ -1,0 +1,40 @@
+#call {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  position: relative;
+
+  display: flex;
+  width: 50%;
+  margin: 30px auto;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 200px;
+}
+
+#call p {
+  padding: 50px;
+  display: block;
+  text-align: center;
+  line-height: 2em;
+}
+#email {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  position: relative;
+
+  display: flex;
+  width: 50%;
+  margin: 30px auto;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 200px;
+}
+
+#email p {
+  padding: 50px;
+  display: block;
+  text-align: center;
+  line-height: 2em;
+}
